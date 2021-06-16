@@ -27,7 +27,7 @@ Developer : Gilang Saputro
 **Mongodb**, Database
 
 `4`
-**HTML/CSS*
+**HTML/CSS**
 -Bootstrap
 
 <a>Last updated: June 2021</a>
