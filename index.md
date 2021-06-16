@@ -8,7 +8,7 @@ Developer : Gilang Saputro
 <a href="">saputrogilang21@gmail.com</a>
 <div id="webaddress">
   <a href="https://www.linkedin.com/in/gilang-saputro-8ab503149/"><i class="fas fa-users"></i>Gilang Saputro</a><br/>
-  <a href="https://github.com/derpl-del/"><i class="fab fa-github"></i> derpl-del</a>
+  <a href="https://github.com/derpl-del/"><i class="fab fa-github"></i> derpl-del</a><br/>
   <a href="">Site</a>
 </div>
 
@@ -30,8 +30,4 @@ Developer : Gilang Saputro
 **HTML/CSS*
 -Bootstrap
 
-<!-- ### Footer
-
-Last updated: June 2021 -->
-
-
+<a>Last updated: June 2021</a>
