@@ -18,16 +18,18 @@ Developer : Gilang Saputro
 **Golang**, Middleware (Rest API)
 
 - Gorillamux
-- Mongodriver
+- Gorm
 
 `2`
 **Javascript**, Middleware
 
 `3`
-**Mongodb**, Database
+**Postgresql**, Database
 
 `4`
 **HTML/CSS**
 -Bootstrap
+-Mapbox
+-Jquery
 
 <a>Last updated: June 2021</a>
